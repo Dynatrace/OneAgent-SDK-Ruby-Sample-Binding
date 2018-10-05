@@ -1,0 +1,3 @@
+[submodule "OneAgent-SDK-for-C"]
+	path = OneAgent-SDK-for-C
+	url = https://github.com/Dynatrace/OneAgent-SDK-for-C.git
