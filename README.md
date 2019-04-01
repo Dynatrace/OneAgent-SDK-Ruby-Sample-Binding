@@ -16,7 +16,7 @@ The sample binding and demo app were tested with MRI/CRuby v2.5.1 and FFI v1.9.2
 ## Dependencies
 
 * [Dynatrace OneAgent SDK for C](https://github.com/Dynatrace/OneAgent-SDK-for-C) version 1.2.0 (and above)
-  * see [its documentation](https://github.com/Dynatrace/OneAgent-SDK-for-C#compatibility-of-dynatrace-oneagent-sdk-for-cc-releases-with-oneagent-releases) for compatible versions of Dynatrace OneAgent
+  * see its [documentation](https://github.com/Dynatrace/OneAgent-SDK-for-C#requirements) for requirements and compatible Dynatrace OneAgent versions
 * [Ruby FFI](https://github.com/ffi/ffi)
 
 
