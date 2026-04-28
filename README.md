@@ -1,3 +1,7 @@
+⚠️ This repository has been archived and is no longer maintained.
+The code is available for historical reference or archival purposes.
+
+
 # Dynatrace OneAgent SDK Sample Binding for Ruby
 
 > **DISCLAIMER**: This project was developed as part of an innovation / hacker day from Dynatrace R&D. It is not complete, nor supported and only intended as a starting point for those wanting to integrate the OneAgent SDK for C/C++ with Ruby.
